@@ -1,0 +1,1 @@
+/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/build/intermediates/cxx/Debug/5d2n481a/obj/arm64-v8a

@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/.cxx/Debug/5d2n481a/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/ReactAndroid/ReactAndroidConfig.cmake",
+    "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/.cxx/Debug/5d2n481a/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/ReactAndroid/ReactAndroidConfigVersion.cmake",
+    "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/.cxx/Debug/5d2n481a/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/fbjni/fbjniConfig.cmake",
+    "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/.cxx/Debug/5d2n481a/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/fbjni/fbjniConfigVersion.cmake",
+    "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/.cxx/Debug/5d2n481a/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/react-native-worklets-core/react-native-worklets-coreConfig.cmake",
+    "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/itob/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/.cxx/Debug/5d2n481a/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/itob/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/.cxx/Debug/5d2n481a/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "VisionCamera::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "VisionCamera",
+      "output": "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/build/intermediates/cxx/Debug/5d2n481a/obj/arm64-v8a/libVisionCamera.so",
+      "runtimeFiles": [
+        "/Users/itob/.gradle/caches/8.9/transforms/76014b164c70167990c58e0189950ed6/transformed/jetified-react-android-0.75.4-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/itob/.gradle/caches/8.9/transforms/76014b164c70167990c58e0189950ed6/transformed/jetified-react-android-0.75.4-debug/prefab/modules/reactnativejni/libs/android.arm64-v8a/libreactnativejni.so",
+        "/Users/itob/.gradle/caches/8.9/transforms/11614e80fdb6bd74b0a0797797ff513e/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-worklets-core/android/build/intermediates/cxx/Debug/613a5c3j/obj/arm64-v8a/librnworklets.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/itob/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/itob/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

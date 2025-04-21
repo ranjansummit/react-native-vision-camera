@@ -1,0 +1,21 @@
+"/Applications/Android Studio.app/Contents/jbr/Contents/Home/bin/java" \
+  --class-path \
+  /Users/itob/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \
+  com.google.prefab.cli.AppKt \
+  --build-system \
+  cmake \
+  --platform \
+  android \
+  --abi \
+  arm64-v8a \
+  --os-version \
+  23 \
+  --stl \
+  c++_shared \
+  --ndk-version \
+  26 \
+  --output \
+  /var/folders/q5/439yy5211cz2s3wvz9f7gl5r0000gn/T/agp-prefab-staging11565403320593939175/staged-cli-output \
+  /Users/itob/.gradle/caches/8.9/transforms/76014b164c70167990c58e0189950ed6/transformed/jetified-react-android-0.75.4-debug/prefab \
+  /Users/itob/Projects/ncell-sca-mobile-new-version/node_modules/react-native-vision-camera/android/build/intermediates/cxx/refs/react-native-worklets-core/f281e4q3 \
+  /Users/itob/.gradle/caches/8.9/transforms/11614e80fdb6bd74b0a0797797ff513e/transformed/jetified-fbjni-0.6.0/prefab
