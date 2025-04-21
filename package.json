@@ -43,8 +43,8 @@
     "clean-ios": "scripts/clean-ios.sh",
     "clean-android": "scripts/clean-android.sh",
     "clean-js": "scripts/clean-js.sh",
-    "prepack": "cp ../README.md ./README.md",
-    "postpack": "rm ./README.md"
+    "prepack": "",
+    "postpack": ""
   },
   "keywords": [
     "react",
@@ -91,12 +91,12 @@
     "@shopify/react-native-skia": "^1.3.4",
     "@types/react": "^18.3.3",
     "@types/react-native": "^0.73.0",
-    "eslint": "^8.46.0",
+    "eslint": "^8.57.0",
     "eslint-plugin-prettier": "^5.1.3",
     "prettier": "^3.0.1",
     "react": "^18.3.1",
-    "react-native": "^0.74.2",
-    "react-native-builder-bob": "^0.23.2",
+    "react-native": "^0.74.7",
+    "react-native-builder-bob": "^0.24.3",
     "react-native-reanimated": "^3.12.0",
     "react-native-worklets-core": "^1.3.3",
     "release-it": "^17.3.0",
